@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+img{
+    border-radius: 100%;
+    margin-left: 13rem;
+}
+H1{
+    color: green;
+    margin-left: 18rem;
+    font-weight: bolder;
+}
+
+h1:hover{
+    color: black;
+}
+li{
+    font-weight: bolder;
+    font-size: xx-large;
+}
